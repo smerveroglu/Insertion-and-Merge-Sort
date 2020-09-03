@@ -1,9 +1,6 @@
 //-----------------------------------------------------
 // Title: Quick Sort Ascending of Student objects
 // Author: Sevdi Merve Eroglu
-// ID: 12505108686
-// Section: 1
-// Assignment: 2
 // Description: This class tests the quick sort for student objects
 //-----------------------------------------------------
 public class Student_ascending implements Comparable<Student_ascending>
