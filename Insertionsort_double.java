@@ -1,9 +1,6 @@
 //-----------------------------------------------------
 // Title: Insertion Sort of Double Array
 // Author: Sevdi Merve Eroglu
-// ID: 12505108686
-// Section: 1
-// Assignment: 2
 // Description: This class tests the insertion sort for double array
 //-----------------------------------------------------
 
